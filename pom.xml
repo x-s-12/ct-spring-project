@@ -59,7 +59,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>${spring-boot.version}</version>
                 <configuration>
-                    <mainClass>com.ct.CtSpringProjectApplication</mainClass>
+                    <mainClass>com.ct.Application</mainClass>
                     <skip>true</skip>
                 </configuration>
                 <executions>
